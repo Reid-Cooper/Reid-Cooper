@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Reid-Cooper
-- 👀 I’m interested in learning more about CS and programming
 - 🌱 I’m currently learning CS at the University of Colorado Boulder
-- 💞️ I’m looking to collaborate on amything related to programminig or game design
+- 💞️ I’m looking to collaborate on amything related to programminig or computational chemistry
 - 📫 How to reach me: reidxcooper@gmail.com
 - 😄 Pronouns: He/Him
 
