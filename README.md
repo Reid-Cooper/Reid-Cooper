@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reid-Cooper
-- 🌱 I’m currently learning CS at the University of Colorado Boulder
-- 💞️ I’m looking to collaborate on amything related to programminig or computational chemistry
+- 🌱 I’m currently a chemical engineer at the University of Colorado Boulder
+- 💞️ I’m looking to collaborate on anything related to chemical engineering or computational chemistry
 - 📫 How to reach me: reidxcooper@gmail.com
 - 😄 Pronouns: He/Him
 
